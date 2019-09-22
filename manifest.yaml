@@ -1,0 +1,8 @@
+---
+
+id: DebugMsg
+name: "Debug Messager"
+author: "Kingoftheconnors"
+description: "Adds a DEBUG MESSAGE action that prints all current counters and flag values. For debug purposes"
+
+...

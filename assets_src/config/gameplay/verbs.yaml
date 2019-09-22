@@ -1,0 +1,10 @@
+---
+
+verbs:
+  - id: debug_msg
+    icon: ui/icons/unit_action_icon_debug_msg.png
+    name: ui_unit_verbs_debug_msg
+    targetOutlineColour: target_outline
+    scriptName: verbs/msg
+
+...

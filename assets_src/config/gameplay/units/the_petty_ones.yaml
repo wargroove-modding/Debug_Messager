@@ -1,0 +1,145 @@
+---
+
+# This adds debug_msg to the soldier verb list
+modifyingUnitClasses:
+  - id: soldier
+    add:
+      verbs:
+        - debug_msg
+
+  - id: archer
+    add:
+      verbs:
+        - debug_msg
+
+  - id: ballista
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_caesar
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_darkmercia
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_elodie
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_emeric
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_greenfinger
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_koji
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_mercia
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_mercival
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_nuru
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_ragna
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_ryota
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_sedge
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_sigrid
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_tenri
+    add:
+      verbs:
+        - debug_msg
+
+  - id: commander_valder
+    add:
+      verbs:
+        - debug_msg
+
+  - id: dog
+    add:
+      verbs:
+        - debug_msg
+
+  - id: drone
+    add:
+      verbs:
+        - debug_msg
+
+  - id: giant
+    add:
+      verbs:
+        - debug_msg
+
+  - id: knight
+    add:
+      verbs:
+        - debug_msg
+
+  - id: mage
+    add:
+      verbs:
+        - debug_msg
+
+  - id: merman
+    add:
+      verbs:
+        - debug_msg
+
+  - id: spearman
+    add:
+      verbs:
+        - debug_msg
+
+  - id: trebuchet
+    add:
+      verbs:
+        - debug_msg
+
+  - id: villager
+    add:
+      verbs:
+        - debug_msg
+
+  - id: wagon
+    add:
+      verbs:
+        - debug_msg
+
+...
